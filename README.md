@@ -39,3 +39,8 @@ The user can draw "sand" anywhere on the screen. It can be used to create an obs
 for the car to learn to navigate.
 
 <img title="ai-car-simulation" alt="simulation" src="/resources/obstacle-course.png" width=400>
+
+Click the save button to save the "brain" state. This can be loaded again for future simulations.
+Saving will also generate a graph of the reward per trial.
+
+<img title="ai-car-simulation" alt="simulation" src="/resources/Figure_1.png" width=400>
