@@ -5,7 +5,7 @@
 ### Introduction
 
 This is a simulation of how an autonomous vehicle can utilize reinforcement learning to navigate a road.
-Pytorch is used for the Neural Network and Deep Q Learning. The rectangle represents the car while the three
+PyTorch is used for the Neural Network and Deep Q Learning. The rectangle represents the car while the three
 dots represent sensors on the left, right, and front of the car. The yellow lines represent "sand".
 Sand is the negative reinforcement. The top left corner and the bottom right corner are the positive reinforcements.
 The goal of this vehicle is to search for the optimal path between these two locations. The car is designed to respond
